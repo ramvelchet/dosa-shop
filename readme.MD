@@ -7,8 +7,9 @@
 ## karam dosa
 *  dosa batter
 * yerra karam
-* oil
+* oil 
 
-# Egg Dosa
-* Dosa Batter
-* egg and karam
+## Egg Dosa
+* dosa batter
+* 1/2 eggs and karam
+

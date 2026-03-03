@@ -6,5 +6,6 @@
 
 ## karam dosa
 *  dosa batter
-* karam
+* yerra karam
 * oil
+

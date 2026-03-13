@@ -9,3 +9,6 @@
 * yerra karam
 * oil
 
+## ghee-karam
+* dosa batter 
+

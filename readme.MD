@@ -9,3 +9,8 @@
 * yerra karam
 * oil
 
+## Mashroom Dosa
+* dosa Batter
+* Mashroom Masala
+* oil 
+
